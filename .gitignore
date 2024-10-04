@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Environment files
+.env
+
+# Optional npm cache
+.npm
+
+# Mac and Windows related files (optional, if you're on these platforms)
+.DS_Store
+Thumbs.db
